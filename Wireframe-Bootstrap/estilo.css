@@ -1,0 +1,76 @@
+.principal {
+    width: 1000px;
+    border: 1px solid black;
+    margin: auto;
+    position: relative;
+}
+.topo {
+    width: 100%;
+    height: 130px;
+}
+.logotipo, .login {
+    width: 300px;
+    height: 100%;
+    float: left;
+    background-color: antiquewhite;
+}
+.busca {
+    width: 400px;
+    height: 100%;
+    float: left;
+    background-color: aquamarine;   
+}
+.banner {
+    width: 100%;
+    height: 400px;
+    background-color: aqua;    
+}
+.menu, .retorne {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(0, 0, 0);
+    }
+.conteudo {
+    width: 100%;
+    height: 450px ;
+    background-color: black;
+}    
+.conteudo-esquerdo, .conteudo-direito {
+    width: 50%;
+    height: 100%;
+    float: left;
+    background-color: red;
+}
+.departamentos {
+    width: 100%;
+    height: 300px;
+    background-color: blueviolet;
+}
+.bem-vindo {
+    width: 100%;
+    height: 150px;
+    background-color: brown;
+}
+.roupas, .acessorios {
+    width: 50%;
+    height: 100%;
+    background-color: chartreuse;
+    float: left;
+}
+.acessorios {
+    background-color: blue;
+}
+.rodape {
+    width: 100%;
+    height: 200px;
+}
+.sobre, .trabalhos, .recursos, .ajuda {
+    width: 25%;
+    height: 100%;
+    float: left;
+    background-color: blueviolet;
+}
+.trabalhos {
+    background-color: grey;
+
+}
